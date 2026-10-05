@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 28" width="100%" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d4a94a" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#d4a94a"/>
+      <stop offset="1" stop-color="#d4a94a" stop-opacity="0"/>
+    </linearGradient>
+    <path id="star" d="M0 -9 L2.6 -2.8 L9 -2.8 L3.8 1.4 L5.6 8 L0 4.2 L-5.6 8 L-3.8 1.4 L-9 -2.8 L-2.6 -2.8 Z"/>
+  </defs>
+  <rect x="0" y="13" width="400" height="2" fill="url(#fade)"/>
+  <rect x="480" y="13" width="400" height="2" fill="url(#fade)"/>
+  <g fill="#d4a94a">
+    <use href="#star" transform="translate(416 14) scale(0.6)" opacity="0.7"/>
+    <use href="#star" transform="translate(464 14) scale(0.6)" opacity="0.7"/>
+    <g>
+      <use href="#star" transform="translate(440 14)"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 440 14" to="360 440 14" dur="6s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
