@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="nyo hô — vibecoder, learning html and stuff related to that" width="100%" />
+If you like what I make, you can buy me a coffee:
+
+<a href="https://buymeacoffee.com/apollosense" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="50"></a>
+
+<br /><br />
+
+<img src="./assets/header.svg" alt="nyo hō — vibecoder, learning html and stuff related to that" width="100%" />
 
 </div>
 
@@ -10,7 +16,7 @@
 
 ### ✦ The Spin
 
-> *"Nyo ho ho~"*
+> *"Nyo hō~"*
 
 I'm **apollosense** — a vibecoder, learning HTML and stuff related to that.
 
@@ -35,12 +41,6 @@ I make small web things for fun. Most of them start as a detour and end up being
 <img src="./assets/divider.svg" alt="" width="100%" />
 
 <div align="center">
-
-If you like what I make, you can buy me a coffee:
-
-<a href="https://buymeacoffee.com/apollosense" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="50"></a>
-
-<br /><br />
 
 <sub>ゴ ゴ ゴ &nbsp;·&nbsp; arrivederci &nbsp;·&nbsp; ゴ ゴ ゴ</sub>
 
