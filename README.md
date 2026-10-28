@@ -6,7 +6,7 @@ If you like what I make, you can buy me a coffee:
 
 <br /><br />
 
-<img src="./assets/header.svg" alt="nyo hō — vibecoder, learning html and stuff related to that" width="100%" />
+<img src="./assets/header.svg" alt="nyo hō — code liker, learning html and stuff related to that" width="100%" />
 
 </div>
 
