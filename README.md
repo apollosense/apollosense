@@ -6,7 +6,7 @@ If you like what I make, you can buy me a coffee:
 
 <br /><br />
 
-<img src="./assets/header.svg" alt="nyo hō — code liker, learning html and stuff related to that" width="100%" />
+<img src="./assets/header.svg" alt="nyo hō — learning html and stuff related to that" width="100%" />
 
 </div>
 
@@ -18,7 +18,7 @@ If you like what I make, you can buy me a coffee:
 
 > *"Nyo hō~"*
 
-I'm **apollosense** — a code guy, learning HTML and stuff related to that.
+I'm **apollosense** — learning HTML and stuff related to that.
 
 I make small web things for fun. Most of them start as a detour and end up being the shortest path.
 
