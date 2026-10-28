@@ -18,7 +18,7 @@ If you like what I make, you can buy me a coffee:
 
 > *"Nyo hō~"*
 
-I'm **apollosense** — a vibecoder, learning HTML and stuff related to that.
+I'm **apollosense** — a code guy, learning HTML and stuff related to that.
 
 I make small web things for fun. Most of them start as a detour and end up being the shortest path.
 
